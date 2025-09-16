@@ -1,0 +1,4 @@
+/* bugfix/header-align/header.css */
+header {
+  text-align: center; /* antes estaba alineado a la izquierda */
+}
