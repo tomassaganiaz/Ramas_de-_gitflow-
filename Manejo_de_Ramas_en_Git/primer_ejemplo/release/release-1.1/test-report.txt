@@ -1,0 +1,7 @@
+# Resultados de pruebas para versión 1.1
+
+✔ Login funcional probado con credenciales válidas y vacías
+✔ Menú dinámico renderizado correctamente
+✔ Footer corregido y visible en todas las resoluciones
+✔ Header centrado en pantallas grandes
+✔ No se detectaron errores críticos
