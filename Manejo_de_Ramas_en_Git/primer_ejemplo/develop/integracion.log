@@ -1,0 +1,33 @@
+# Registro de integración en rama develop
+# Proyecto: GitFlow-Ejemplo
+# Última actualización: 15/09/2025
+
+[✔] Merge: feature/login → develop
+    Fecha: 12/09/2025
+    Descripción: Se agregó funcionalidad de login con validación básica.
+    Archivos: login.js
+
+[✔] Merge: bugfix/footer-typo → develop
+    Fecha: 13/09/2025
+    Descripción: Corrección de error tipográfico en el footer.
+    Archivos: footer.html
+
+[✔] Merge: feature/menu → develop
+    Fecha: 14/09/2025
+    Descripción: Menú dinámico implementado con estructura básica.
+    Archivos: menu.js
+
+[✔] Merge: bugfix/header-align → develop
+    Fecha: 15/09/2025
+    Descripción: Se corrigió la alineación del header para pantallas grandes.
+    Archivos: header.css
+
+[✔] Merge: hotfix/fix-bug-login → develop
+    Fecha: 15/09/2025
+    Descripción: Se corrigió bug crítico que permitía login con campos vacíos.
+    Archivos: login.js
+
+[✔] Merge: experiment/new-ui → develop (parcial)
+    Fecha: 15/09/2025
+    Descripción: Se probó nueva interfaz en entorno de pruebas. No se integró a producción.
+    Archivos: ui-prototype.html
